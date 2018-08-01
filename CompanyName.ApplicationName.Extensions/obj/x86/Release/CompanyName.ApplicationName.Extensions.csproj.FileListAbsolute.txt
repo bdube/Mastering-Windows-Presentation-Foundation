@@ -1,3 +1,0 @@
-F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\bin\x86\Release\CompanyName.ApplicationName.Extensions.dll
-F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\obj\x86\Release\CompanyName.ApplicationName.Extensions.csprojResolveAssemblyReference.cache
-F:\CompanyName.ApplicationName\CompanyName.ApplicationName.Extensions\obj\x86\Release\CompanyName.ApplicationName.Extensions.dll
